@@ -1,0 +1,2 @@
+# duck
+ Getting into instanceOf
